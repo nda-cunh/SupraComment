@@ -19,8 +19,8 @@ A simple and fast Vim9 commenting plugin inspired by VS Code’s Ctrl + / behavi
 | Mode            | Keybinding  |            Action              |
 |-----------------|-------------|--------------------------------|
 | Normal|Visual   |  Ctrl + /   |Toggle comment on current line  |
-| Normal|Visual   |  Ctrl + /   |Force comment on current line   |
-| Normal|Visual	  |  Ctrl + /   |Force uncomment on current line |
+| Normal|Visual   |     \       |Force comment on current line   |
+| Normal|Visual	  |  Ctrl + \   |Force uncomment on current line |
 
 you can use it with a prefix count to comment/uncomment multiple lines.
 eg: `3<Ctrl+/>` will toggle comments on the next 3 lines.

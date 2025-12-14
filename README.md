@@ -2,6 +2,8 @@
 
 A simple and fast Vim9 commenting plugin inspired by VS Code’s Ctrl + / behavior.
 
+![SupraComment](https://github.com/user-attachments/assets/0bced39b-271c-449a-a7fd-0b5effc67239)
+
 ## Features
 
 - 🔁 Toggle comments like VS Code (Ctrl + /)
